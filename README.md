@@ -1,7 +1,7 @@
 # Hello, I'm Aakashdeep 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/your_username?label=Follow&style=social)](https://github.com/aakashdeepsil)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_username?label=Follow&style=social)](https://twitter.com/aakashdeepsil)
+[![GitHub followers](https://img.shields.io/github/followers/aakashdeepsil?label=Follow&style=social)](https://github.com/aakashdeepsil)
+[![Twitter Follow](https://img.shields.io/twitter/follow/aakashdeepsil?label=Follow&style=social)](https://twitter.com/aakashdeepsil)
 
 I'm a passionate software developer with expertise in distributed systems and cloud computing. I enjoy building scalable products with a challenging path. 
 
