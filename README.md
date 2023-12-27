@@ -9,10 +9,6 @@ I'm a passionate software developer with expertise in distributed systems and cl
 
 - [Capstone Matching System](https://github.com/aakashdeepsil/capstone-matching)
 
-## In-progress Projects
-
-- [Cineverse](https://github.com/aakashdeepsil/cineverse)
-
 <!-- ## 🌱 I'm currently learning
 
 - [Technology 1](https://example.com)
