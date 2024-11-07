@@ -22,6 +22,6 @@ I'm a passionate software developer with expertise in distributed systems and cl
 ## 📫 How to reach me
 
 - Email: [aakashdeep.work@gmail.com](mailto:aakashdeep.work@gmail.com)
-- Website: [your_website.com](https://your_website.com)
+- Website: [aakashdeepsil.github.io](https://your_website.com](https://aakashdeepsil.github.io/)
 - LinkedIn: [aakashdeepsil](https://www.linkedin.com/in/aakashdeepsil)
 - Twitter: [@aakashdeepsil](https://twitter.com/aakashdeepsil)
